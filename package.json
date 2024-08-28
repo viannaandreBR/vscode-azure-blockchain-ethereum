@@ -586,7 +586,7 @@
     "vscode-debugadapter": "^1.33.0",
     "vscode-debugprotocol": "^1.33.0",
     "vscode-test": "^1.2.0",
-    "webpack": "4.43.0",
+    "webpack": "5.94.0",
     "webpack-cli": "3.3.11"
   },
   "dependencies": {
